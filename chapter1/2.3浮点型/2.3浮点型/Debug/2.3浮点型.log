@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\28954\Desktop\c++\1\2.3浮点型\2.3浮点型\main.cpp(6,17): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\28954\Desktop\c++\1\2.3浮点型\2.3浮点型\main.cpp(17,17): warning C4305: “初始化”: 从“double”到“float”截断
+  2.3浮点型.vcxproj -> C:\Users\28954\Desktop\c++\1\2.3浮点型\Debug\2.3浮点型.exe
